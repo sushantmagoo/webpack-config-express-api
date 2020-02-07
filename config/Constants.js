@@ -1,0 +1,10 @@
+// TODO: REMOVE STRINGS FROM SOURCE AND ADD HERE
+
+// * DIRECTORY -> FILE
+
+export default {
+  CONTROLLERS: {},
+  MIDDLEWARES: {},
+  MODELS: {},
+  UTILS: {}
+};

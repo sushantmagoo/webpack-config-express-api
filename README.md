@@ -15,7 +15,7 @@
 
 ### TO RUN ON DEVELOPMENT/LOCAL MACHINE
 
-1. Create `.env` in `config` directory
+1. Create `.env` file in `config` directory
 2. `npm i`
 3. `npm run dev`
 
